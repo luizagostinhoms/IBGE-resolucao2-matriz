@@ -22,3 +22,8 @@ Dado esse problema, imaginando que o estudante aprendeu a matriz.
 
 A primeira versão desse código foi desenvolvido no https://www.onlinegdb.com, 
   recomendo para rodar no windows a IDE DEV C++, com configuração do compilador para ISO C99.
+  
+
+Esse prograna é uma evolução do código desenvolvido previamente em:
+
+https://github.com/luizagostinhoms/IBGE-resolucao1-vetores.git
